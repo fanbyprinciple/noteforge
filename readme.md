@@ -28,3 +28,6 @@ Mongo DB connected
 
 ![](2025-09-17-00-36-31.png)
 
+Title: Build a GraphQL API with NodeJS and MongoDB (Full-stack MERN Tutorial )
+Author: notJust․dev
+Link: https://www.youtube.com/watch?v=hPBVIET5coo&t=2872ss
